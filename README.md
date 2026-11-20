@@ -7,7 +7,7 @@ Built as a mini project to apply what I learned in two NVIDIA Deep Learning Inst
 Building Transformer-Based Natural Language Processing Applications
 Fundamentals of Accelerated Data Science
 
-🔗 Live demo: your-app.streamlit.app (replace with your Streamlit link)
+🔗 **Live demo:** [movie-mood-checker.streamlit.app](https://movie-mood-checker.streamlit.app/)
 
 ✨ Features
 Tab	What it does
